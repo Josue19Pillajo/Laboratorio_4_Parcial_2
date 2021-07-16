@@ -63,6 +63,7 @@ El porcentaje de error es minimo , conluyo que el circuito fue bien desarrollado
 
 # 5.VIDEO
 
+https://www.youtube.com/watch?v=EDSvA_LBTI0
 
 # 6. CONCLUSIONES
 
